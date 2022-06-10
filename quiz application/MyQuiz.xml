@@ -1,0 +1,28 @@
+<QuizML name="Sample Quiz">
+<Description></Description>
+<Question type="multichoice" points="10"></Question>
+<QuestionText answer="2">Les actifs islamiques représentent à peu près …% des actifs bancaires mondiaux:
+</QuestionText>
+<Answer name="1"></Answer>
+<Answer name="2"></Answer>
+<Answer name="3"></Answer>
+<Question type="tf" points="20"></Question>
+<QuestionText answer="t">Le taux de croissance de la finance conventionnelle est 2 fois plus élevé que la finance islamique 
+</QuestionText>
+<Answer name="t">VRAI</Answer>
+<Answer name='f'>FAUX</Answer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</QuizML>
